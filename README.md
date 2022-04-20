@@ -4,5 +4,5 @@ Computer Engineering student at the University of Waterloo.
 
 - Currently a SWE intern at Ford Pro. Previously at Ricoh, Seismic LiveSocial, and IESO.
 - Languages: Java, Python, C++, C
-- Currently Learning: Tensorflow
+- Currently Learning: Nothing 
 - Want to Learn: ML, Computer Vision, Back-End Development, Embedded Systems, IoT, Cloud Architecture, Distributed Systems
