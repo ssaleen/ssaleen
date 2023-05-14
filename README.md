@@ -3,4 +3,4 @@
 Computer Engineering student at the University of Waterloo.
 
 - Languages: C/C++, Java, Python, Verilog
-- Currently interning at Autonomic as a SWE
+- Most recently interned at Autonomic as a SWE
